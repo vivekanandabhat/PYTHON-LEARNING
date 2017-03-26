@@ -39,6 +39,7 @@ def get_fuel_data():
 mileage, gas, gas_start = get_fuel_data()
 calculate_stops(mileage,gas,gas_start)
 
+print
 
 
     
